@@ -1,0 +1,17 @@
+body {
+    font-family: $Pragmatica;
+    // letter-spacing: 0.1em;
+    background-color: #ebeced;
+    // background-color: #fff;
+    height: 100% !important;
+    height: 100%;
+    margin: 0 auto;
+    // overflow: hidden ;
+    overflow: visible !important;
+    letter-spacing: 0.03em;
+}
+
+
+.pace {
+    z-index: 99999999999999999999;
+}

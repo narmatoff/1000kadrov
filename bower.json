@@ -1,0 +1,32 @@
+{
+  "name": "gulp_project",
+  "version": "0.0.0",
+  "authors": [
+    "narmatoff <narmatoff@ya.ru>"
+  ],
+  "main": "index.jade",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "dist/components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "swiper": "^3.4.1",
+    "jquery": "^3.1.1",
+    "waypoints": "^4.0.1",
+    "skrollr": "^0.6.30",
+    "jquery.easing": "^1.3.1",
+    "magnific-popup": "^1.1.0"
+  },
+  "description": "",
+  "homepage": ""
+}
